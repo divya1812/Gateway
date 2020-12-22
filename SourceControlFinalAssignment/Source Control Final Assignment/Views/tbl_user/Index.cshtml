@@ -1,0 +1,73 @@
+﻿@model Source_Control_Final_Assignment.Models.tbl_user
+@{
+    ViewBag.Title = "Index";
+}
+<style type="text/css">
+    .left {
+        float: left;
+        display: inline;
+        margin-left: 100px;
+    }
+
+    .right {
+        float: right;
+        display: inline;
+    }
+
+    .space {
+        margin-left: 550px;
+    }
+</style>
+@*<a href="@Url.Action("Logout","tbl_user")" class="btn btn-warning">Logout</a>*@
+
+<h1 align="center" style="color : cadetblue; margin-top:80px; font-size:60px; font-family:'Book Antiqua'">Welcome @Session["Name"]</h1>
+<br />
+<br />
+<br />
+<div class="row justify-content-md-start; jumbotron">
+    <div class="col-md-12">
+        <div class="card">
+
+            <div class="card-body">
+
+                @if (Session["UserId"] != null)
+
+                {
+                    <div class="left"><img src='@Session["Profile"]' alt="no img" width="150" height="150" /></div>
+                    <div class="right; space">
+                        <b>
+                            <span style="margin-right:50px">Name :</span> @Session["Name"].ToString()<br /><br />
+                            <span style="margin-right:40px">Age :</span> <span style="margin-left:20px">@Session["Age"].ToString()</span><br /><br />
+                            <span style="margin-right:50px">Email :</span>   @Session["Email"].ToString()<br /><br />
+                            <span style="margin-right:30px">Address :</span>  @Session["Address"].ToString()<br /><br />
+                            <span style="margin-right:45px">Phone :</span>  @Session["Phone"].ToString()
+
+                        </b>
+
+                    </div>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+
+
+                }
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+        $(function () {
+            var msg ='@TempData["successMsg"]';
+            if (msg != '') {
+
+                alertify.alert(msg);
+            }
+        });
+    </script>
+    }
