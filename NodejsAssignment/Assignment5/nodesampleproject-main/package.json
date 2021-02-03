@@ -1,0 +1,24 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "http-status-codes": "^2.1.4",
+    "i18n-2": "^0.7.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "lcid": "^3.1.1",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.2",
+    "pg": "^8.5.1",
+    "validator": "^13.5.2"
+  }
+}

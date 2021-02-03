@@ -1,0 +1,6 @@
+{
+  "UserIdRequired": "User Id required",
+  "UserDetailFetchedSuccessfully": "User details fetched successfully",
+  "NoRecordFound": "No record found",
+  "SystemError": "Something went wrong!"
+}

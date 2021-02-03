@@ -1,0 +1,6 @@
+{
+  "UserIdRequired": "Användar-ID krävs",
+  "UserDetailFetchedSuccessfully": "Användarinformation hämtades framgångsrikt",
+  "NoRecordFound": "Inget rekord funnet",
+  "SystemError": "Något gick fel!" 
+}
