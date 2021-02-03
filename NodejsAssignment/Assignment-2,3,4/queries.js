@@ -26,10 +26,26 @@ const getCarswithImage = (request, response) => {
   })
 }
 
+const getCarswithImageById = (request, response) => {
+  const id = parseInt(request.params.id)
+  pool.query('SELECT car.id ,car.carname ,make.makename ,model.modelname ,array_agg(carimages.imagename) as "Image" FROM car INNER JOIN make ON car.makeid = make.id INNER JOIN model ON car.modelid = model.id INNER JOIN carimages ON car.id = carimages.carid where car.id = $1 GROUP BY car.id ,make.makename,model.modelname;', [id],(error, results) => {
+    if (error) {
+      throw error
+    }
+    if(results.rowCount===0){
+      response.status(404).json({Message: "Data doesnt exist"})
+    }
+    else{
+      response.status(200).json(results.rows)
+    }
+  })
+}
+
+
 const getCarById = (request, response) => {
   const id = parseInt(request.params.id)
 
-  pool.query('SELECT car.id ,car."Name" ,make."MakeName" ,model."ModelName" FROM car INNER JOIN make ON car.makeid = make.id INNER JOIN model ON car.modelid = model.id where car.id = $1;', [id], (error, results) => {
+  pool.query('SELECT car.id ,car.carname ,make.makename ,model.modelname FROM car INNER JOIN make ON car.makeid = make.id INNER JOIN model ON car.modelid = model.id where car.id = $1;', [id], (error, results) => {
     if (error) {
       throw error
     }
@@ -52,6 +68,8 @@ const uploadCarImage = (carid,imagename,createddate,res) => {
     res.status(201).send(`Image added for Car id ${carid}`)
   })
 }
+
+
 
 const createCar = (request, response) => {
   const { name, makename , modelname } = request.body
@@ -210,5 +228,6 @@ module.exports = {
   updateCar,
   getCarswithImage,
   deleteCar,
-  uploadCarImage
+  uploadCarImage,
+  getCarswithImageById
 }

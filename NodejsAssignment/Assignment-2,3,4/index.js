@@ -50,6 +50,7 @@ app.post('/upload', upload.single('profilepicture'), function (req, res, next) {
 app.get('/', db.getCarswithImage)
 app.get('/cars', db.getCars)
 app.get('/cars/:id', db.getCarById)
+app.get('/carimages/:id', db.getCarswithImageById)
 app.post('/cars', db.createCar)
 app.put('/cars/:id', db.updateCar)
 app.delete('/cars/:id', db.deleteCar)
