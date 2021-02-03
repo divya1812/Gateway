@@ -11,7 +11,7 @@ var indexCMSRouter = require('./routes/index');
 var userCMSRouter = require('./routes/users');
 
 var apiMobileUserManagementRouter = require('./mobile/routes/user-management');
-var apiMobileContactManagementRouter = require('./mobile/routes/contact-management');
+var apiMobileCarManagementRouter = require('./mobile/routes/car-management');
 //var usersRouter = require('./routes/users');
 //var settings = require('./config.js');
 
@@ -66,6 +66,7 @@ app.use('/user', userCMSRouter);
 
 // Mobile API's
 app.use('/api/user/', apiMobileUserManagementRouter);
+app.use('/api/car/', apiMobileCarManagementRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

@@ -29,7 +29,7 @@ exports.getCarById = function (req, res) {
 
     function getCarById(req, entityData) {
         return new Promise(function (resolve, reject) {
-            const sqlQuery = 'SELECT * FROM cars WHERE id = ' + entityData.Id;
+            const sqlQuery = 'SELECT car.id ,car."Name" ,make."MakeName" ,model."ModelName" FROM car INNER JOIN make ON car.makeid = make.id INNER JOIN model ON car.modelid = model.id where car.id = ' + entityData.Id;
             dbConnection.getResult(sqlQuery).then(function (response) {
                 if (response.data.length > 0) {
                     return resolve({

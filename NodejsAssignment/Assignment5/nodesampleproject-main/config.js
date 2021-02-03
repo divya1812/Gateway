@@ -1,10 +1,10 @@
 module.exports = {
     dbConnection: {
-        user: "postgres",
-        password: "12345",
-        host: "localhost",
-        database: "MyTestDb",
-        port: 5432
+        user: 'postgres',
+        host: 'localhost',
+        database: 'Car Details',
+        password: 'POST1812@gresql',
+        port: 5432,
     },
     server: {
         PORT: 3000,
