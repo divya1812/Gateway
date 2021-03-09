@@ -1,0 +1,6 @@
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\bin\Debug\TESTING.BE.dll
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\bin\Debug\TESTING.BE.pdb
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\obj\Debug\TESTING.BE.csprojAssemblyReference.cache
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\obj\Debug\TESTING.BE.csproj.CoreCompileInputs.cache
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\obj\Debug\TESTING.BE.dll
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BE\obj\Debug\TESTING.BE.pdb

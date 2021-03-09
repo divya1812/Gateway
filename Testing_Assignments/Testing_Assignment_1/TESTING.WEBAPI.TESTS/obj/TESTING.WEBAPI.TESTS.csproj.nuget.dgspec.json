@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI.TESTS\\TESTING.WEBAPI.TESTS.csproj": {}
+  },
+  "projects": {
+    "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj",
+        "projectName": "TESTING.BAL",
+        "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj",
+        "projectName": "TESTING.BE",
+        "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI.TESTS\\TESTING.WEBAPI.TESTS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI.TESTS\\TESTING.WEBAPI.TESTS.csproj",
+        "projectName": "TESTING.WEBAPI.TESTS",
+        "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI.TESTS\\TESTING.WEBAPI.TESTS.csproj",
+        "packagesPath": "C:\\Users\\viren.bhanushali\\.nuget\\packages\\",
+        "outputPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI.TESTS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\viren.bhanushali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj"
+              },
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj"
+              },
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI\\TESTING.WEBAPI.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI\\TESTING.WEBAPI.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI\\TESTING.WEBAPI.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI\\TESTING.WEBAPI.csproj",
+        "projectName": "TESTING.WEBAPI",
+        "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.WEBAPI\\TESTING.WEBAPI.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BAL\\TESTING.BAL.csproj"
+              },
+              "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj": {
+                "projectPath": "D:\\Assignment\\Testing\\TESTING.ASSIGNMENTONE\\TESTING.BE\\TESTING.BE.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

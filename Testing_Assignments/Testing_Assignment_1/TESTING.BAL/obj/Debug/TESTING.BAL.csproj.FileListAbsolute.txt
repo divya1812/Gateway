@@ -1,0 +1,9 @@
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\bin\Debug\TESTING.BAL.dll
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\bin\Debug\TESTING.BAL.pdb
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\bin\Debug\TESTING.BE.dll
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\bin\Debug\TESTING.BE.pdb
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\obj\Debug\TESTING.BAL.csprojAssemblyReference.cache
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\obj\Debug\TESTING.BAL.csproj.CoreCompileInputs.cache
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\obj\Debug\TESTING.BAL.csproj.CopyComplete
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\obj\Debug\TESTING.BAL.dll
+D:\Assignment\Testing\TESTING.ASSIGNMENTONE\TESTING.BAL\obj\Debug\TESTING.BAL.pdb
