@@ -1,0 +1,29 @@
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.pdb
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.dll
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.pdb
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csprojResolveAssemblyReference.cache
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.dll
+c:\users\deepa\documents\visual studio 2015\Projects\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.pdb
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll.config
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.dll
+C:\Users\deepa\Documents\Visual Studio 2015\Projects\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.xml
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll.config
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\HM.DAL.pdb
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\HM.Model.pdb
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\AutoMapper.xml
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.xml
+E:\Gateway\WebApi Final Assignment\HM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Gateway\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csprojAssemblyReference.cache
+E:\Gateway\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.csproj.CopyComplete
+E:\Gateway\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.dll
+E:\Gateway\WebApi Final Assignment\HM.DAL\obj\Debug\HM.DAL.pdb
