@@ -1,0 +1,16 @@
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\HMS.DAL.dll.config
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\HMS.DAL.dll
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\HMS.DAL.pdb
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\AutoMapper.dll
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\EntityFramework.dll
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\HMS.Models.dll
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\HMS.Models.pdb
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\AutoMapper.xml
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\EntityFramework.xml
+C:\projects\DMS.WebApi\HMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\projects\DMS.WebApi\HMS.DAL\obj\Debug\HMS.DAL.csprojAssemblyReference.cache
+C:\projects\DMS.WebApi\HMS.DAL\obj\Debug\HMS.DAL.csproj.CoreCompileInputs.cache
+C:\projects\DMS.WebApi\HMS.DAL\obj\Debug\HMS.DAL.csproj.CopyComplete
+C:\projects\DMS.WebApi\HMS.DAL\obj\Debug\HMS.DAL.dll
+C:\projects\DMS.WebApi\HMS.DAL\obj\Debug\HMS.DAL.pdb
