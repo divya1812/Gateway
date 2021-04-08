@@ -4,3 +4,9 @@ C:\projects\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.csprojAssemblyReference.c
 C:\projects\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.csproj.CoreCompileInputs.cache
 C:\projects\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.dll
 C:\projects\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\bin\Debug\HMS.Models.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\bin\Debug\HMS.Models.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.csprojAssemblyReference.cache
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\HMS.Models\obj\Debug\HMS.Models.pdb

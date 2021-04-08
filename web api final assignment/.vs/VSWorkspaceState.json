@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DMS.WebApi",
+    "\\DMS.WebApi\\DMS.BAL",
+    "\\DMS.WebApi\\DMS.BAL\\bin",
+    "\\DMS.WebApi\\DMS.BAL\\bin\\Release",
+    "\\DMS.WebApi\\DMS.BAL\\Interfaces",
+    "\\DMS.WebApi\\DMS.WebApi",
+    "\\DMS.WebApi\\DMS.WebApi\\Controllers",
+    "\\DMS.WebApi\\HMS.Models"
+  ],
+  "SelectedNode": "\\DMS.WebApi\\DMS.WebApi.sln",
+  "PreviewInSolutionExplorer": false
+}

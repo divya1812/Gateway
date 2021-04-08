@@ -29,3 +29,35 @@ C:\projects\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.xml
 C:\projects\DMS.WebApi\DMS.BAL\bin\Debug\AutoMapper.xml
 C:\projects\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\projects\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\DMS.BAL.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\DMS.BAL.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\HMS.DAL.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\HMS.Models.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Web.Http.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Unity.Abstractions.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Unity.Container.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Unity.WebApi.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\AutoMapper.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\HMS.DAL.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\HMS.DAL.dll.config
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\HMS.Models.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\System.Web.Http.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\Unity.Container.pdb
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\bin\Debug\AutoMapper.xml
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\obj\Debug\HMS.BAL.csprojAssemblyReference.cache
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\obj\Debug\HMS.BAL.csproj.CoreCompileInputs.cache
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\obj\Debug\HMS.BAL.csproj.CopyComplete
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\obj\Debug\DMS.BAL.dll
+C:\Users\divya.chhabaria\Gateway\web api final assignment\DMS.WebApi\DMS.BAL\obj\Debug\DMS.BAL.pdb
