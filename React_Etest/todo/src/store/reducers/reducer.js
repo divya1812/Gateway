@@ -39,7 +39,7 @@ const items = (state = [], action) => {
           ...todo,
           isCompleted: true,
         };
-      }); 
+      });
 
     default:
       return state;

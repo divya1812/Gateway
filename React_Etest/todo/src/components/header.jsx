@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import Typography from "@material-ui/core/Typography";
 
-export const Header = () => {
-    return (
-        <div>
-          //use typography   
-        </div>
-    )
-}
+const Header = () => {
+  return (
+    <div>
+      <Typography variant="h3" style={{ fontFamily: "Poppins" }}>
+        Todo List
+      </Typography>
+    </div>
+  );
+};
+
+export default Header;
