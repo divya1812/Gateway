@@ -25,7 +25,45 @@ namespace TESTING.WEBAPI.Controllers
         // GET: api/Passenger/5
         public IHttpActionResult Get(Guid id)
         {
-            return (IHttpActionResult) _passengerManager.GetPassenger(id);
+            try
+            {
+                if (Guid.IsNullOrEmpty(id))
+                {
+                    return BadRequest("Invalid passenger id");
+                }
+                var passenger = _passengerManager.GetPassengersList();
+                List<Passenger> list = (List<Passenger>)passenger;
+                var item = list.Find(item1 => item1.Number == id);
+
+                if (item != null)
+                {
+                    return Ok(item);
+                }
+                else
+                {
+                    return InternalServerError();
+                }
+            }
+            catch (Exception ex)
+            {
+                return InternalServerError();
+            }
+
+        }
+
+        private IHttpActionResult BadRequest(string v)
+        {
+            throw new NotImplementedException();
+        }
+
+        private IHttpActionResult Ok(Passenger item)
+        {
+            throw new NotImplementedException();
+        }
+
+        private IHttpActionResult InternalServerError()
+        {
+            throw new NotImplementedException();
         }
 
         // POST: api/Passenger
